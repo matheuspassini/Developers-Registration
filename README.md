@@ -1,9 +1,3 @@
-# Developers-Registration
+# Enhancing Developer Registration Processes with JavaScript 
 
-## This project was developed in the Full Stack JavaScript course, under the control of OneBitCode. OneBitCode is a educational institution and this project aims to develop the skills about DOM related to this referred programming language.
-
-___
-
-## The main idea is to simulate a developer registration, based on the username, background and period of experience. 
-
-## The project uses HTML and JavaScript, with concepts of functions and DOM.
+## This project was part of OneBitCode's Full Stack JavaScript course, aiming to improve participants' DOM manipulation skills in JavaScript. It simulated a developer registration process, including username, background, and experience level details. The project emphasized essential HTML and JavaScript concepts, such as functions and DOM manipulation techniques.
